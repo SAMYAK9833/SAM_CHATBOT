@@ -3,7 +3,7 @@
 
 This FAQ Chatbot is designed to provide automated responses to frequently asked questions. The chatbot is built using Python and can handle basic conversational interactions such as greeting the user, responding to "thank you", and ending the conversation when the user says "bye".
 
-## Model Image :- Mahindra Bolero Neo Plus 
+## Model Image :- Mahindra Bolero Neo Plus (My Car)
 
 <img width="419" height="236" alt="Image" src="https://github.com/user-attachments/assets/b489e9cd-bf50-452d-aa0a-0ff4ddd05253" />
 
